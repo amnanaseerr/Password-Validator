@@ -1,4 +1,5 @@
 🔐 Assembly Language Password Validator
+
 📌 Description
 This project is an Assembly Language Password Validator written using the Irvine32 library. It prompts the user to input a password and performs a series of validation checks to ensure it meets specific security criteria. If the password fails any of the checks, detailed reasons are displayed and the user is prompted to try again until a valid password is entered.
 
